@@ -1,6 +1,6 @@
 cask "weave" do
-  version "0.0.1"
-  sha256 "09b322a3a3e2f39e1703fdfdd06b5740f694463f66a2d409446cd0ac23053695"
+  version "0.1.0"
+  sha256 "f6854c302bf7899839c194c56a780b4e942bbc88abec41c3764af47176e03b53"
 
   url "https://github.com/lukasfroehlich1/weave/releases/download/v#{version}/Weave-#{version}.zip"
   name "Weave"
